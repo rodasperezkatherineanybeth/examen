@@ -1,15 +1,13 @@
-
-
-
-h1{
-color:blue;
+.one{
+	color: blue;
 }
-h2{
-color:red;
+
+.two{
+	color: red;
 }
-h3{
-color:green;
+.three{
+	color: green;
 }
-h6{
-color:purple;
+.four{
+	color: yellow;
 }
